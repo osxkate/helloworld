@@ -1,4 +1,4 @@
-#20200205 Listening to Radiohead In Rainbows vinyl record. Nicole is flying back home! Excited to see her!
+#20200205 Listening to Radiohead In Rainbows vinyl record. Nicole is flying back home! Excited to see her! Hello World!
 #VARS
 hello_world = "Hello World"
 name = " Nicole"
